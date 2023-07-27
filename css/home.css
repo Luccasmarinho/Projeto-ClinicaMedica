@@ -9,6 +9,7 @@
 
 body {
     min-height: 100vh;
+    overflow-x: hidden;
 }
 
 /* cabeçalho */
@@ -298,6 +299,7 @@ footer span {
 
     }
 
+
     .banner {
         height: 60vh;
     }
@@ -318,7 +320,7 @@ footer span {
     }
 
     .contatos {
-        width: 100vw;
+        width: 100%;
         
     }
 
